@@ -1,5 +1,3 @@
-# cursoNutrorAutomacaoSemComplicacaoAPI
-
 <p align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/cursoNutrorApiSemComplicacao?color=blue">
   <img alt="GitHub" src="https://img.shields.io/github/license/gpd38/cursoNutrorApiSemComplicacao?color=red">
